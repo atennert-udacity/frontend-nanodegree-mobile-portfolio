@@ -53,3 +53,9 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+### My Optimizations
+* I inlined the code from style.css as well as the general code from bootstrap-grid.css
+* extracted the screen dependend code from bootstrap-grid.css on seperate files and added them via link tags with media attributes
+* minified CSS
+* minified HTML
