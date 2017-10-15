@@ -63,3 +63,4 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
   * extracted queryElement and getElement statements from loops
   * extracted part of calculation from loop in updatePositions for 60fps scrolling
   * extracted parts of calculations from loop in changePizzaSizes for faster pizza resizing
+* minified main.js with PageSpeed
