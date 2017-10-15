@@ -59,3 +59,7 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * extracted the screen dependend code from bootstrap-grid.css on seperate files and added them via link tags with media attributes
 * minified CSS
 * minified HTML
+* Optimized JavaScript processing
+  * extracted queryElement and getElement statements from loops
+  * extracted part of calculation from loop in updatePositions for 60fps scrolling
+  * extracted parts of calculations from loop in changePizzaSizes for faster pizza resizing
